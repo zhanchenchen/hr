@@ -10,5 +10,6 @@ public class Hello {
 		System.out.print("are you kidding!");
 		System.out.print("fly me to the moon!");
 		System.out.print("out of the woods!");
+		System.out.print("save the time!");
 	}
 }
