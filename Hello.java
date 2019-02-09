@@ -4,5 +4,7 @@ public class Hello {
 		System.out.print("fool me");
 		System.out.print("fool me");
 		System.out.print("that's too much!");
+		System.out.print("love me");
+		System.out.print("tick me off!");
 	}
 }
