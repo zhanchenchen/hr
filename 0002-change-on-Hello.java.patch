@@ -1,0 +1,24 @@
+From 9f13e550e0f8e524b5972a860b37e0b6464e8ac1 Mon Sep 17 00:00:00 2001
+From: zcc <540490410@qq.com>
+Date: Sat, 9 Feb 2019 22:00:42 +0800
+Subject: [PATCH 2/2] change on Hello.java
+
+---
+ Hello.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Hello.java b/Hello.java
+index 7bb0c17..95aca36 100644
+--- a/Hello.java
++++ b/Hello.java
+@@ -9,5 +9,6 @@ public class Hello {
+ 		System.out.print("that's too match!");
+ 		System.out.print("are you kidding!");
+ 		System.out.print("fuck off!");
++		System.out.print("billie gean!");
+ 	}
+ }
+\ No newline at end of file
+-- 
+2.19.2.windows.1
+
